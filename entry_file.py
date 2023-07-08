@@ -14,5 +14,5 @@ def add_entry():
         file.write(f"{name},{phone_number}\n")
     print("Запись добавлена.")
 
-add_entry()
+# add_entry()
 

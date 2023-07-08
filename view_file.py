@@ -7,4 +7,4 @@ def view_phonebook():
         else:
             print("Телефонный справочник пуст.")
 
-view_phonebook()
+# view_phonebook()

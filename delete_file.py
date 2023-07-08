@@ -9,4 +9,4 @@ def delete_entry():
                 file.write(line)
     print("Запись удалена.")
 
-delete_entry()
+# delete_entry()
