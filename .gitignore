@@ -399,4 +399,4 @@ FodyWeavers.xsd
 
 
 # Телефонный справочник
-/phonebook.txt
+*.txt
