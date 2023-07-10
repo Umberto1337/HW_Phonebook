@@ -6,7 +6,7 @@ from search_file import search_entry
 
 def run_phonebook():
     print("Доступные операции:")
-    print("1. Просмотр справочника")
+    print("1. Cписок контактов")
     print("2. Добавить контакт")
     print("3. Удалить контакт")
     print("4. Редактировать контакт")
