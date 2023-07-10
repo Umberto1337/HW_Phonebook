@@ -26,7 +26,7 @@ def run_phonebook():
         elif choice == "5":
             search_entry()
         elif choice == "0":
-            print("До свидания!")
+            print("Давай, До свидания!")
             break
         else:
             print("Неправильный выбор операций.")
