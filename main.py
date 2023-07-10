@@ -29,7 +29,7 @@ def run_phonebook():
             print("До свидания!")
             break
         else:
-            print("Неправильный выбор операции.")
+            print("Неправильный выбор операций.")
             print()
             continue
 
